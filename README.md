@@ -1,3 +1,3 @@
 # study
 
-[kubernetes](kubernetes/Cronjob.md)
+[kubernetes](https://odiohead.github.io/study/kubernetes/Cronjob)
