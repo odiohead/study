@@ -3,10 +3,10 @@
 apiVersion: batch/v1   
 kind: Job   
 metadata:   
-name: pi-with-timeout   
+  name: pi-with-timeout   
 spec:   
-backoffLimit: 5     
-activeDeadlineSeconds: 100   
+  backoffLimit: 5   
+  activeDeadlineSeconds: 100   
 ```
 
 기본적으로 Job은 Pod가 실패하거나(restartPolicy=Never) 컨테이너가 오류로 종료(restartPolicy=OnFailure)하지 않는 한 중단 없이 실행됩니다. 이때 Job은 위에서 설명한 .spec.backoffLimit를 따릅니다.   
