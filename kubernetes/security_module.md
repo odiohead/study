@@ -13,5 +13,5 @@ https://github.com/annulen/sysdig-wiki/blob/master/How-to-Install-Sysdig-for-Lin
 
 
 ### Apparmor
-
+Systemcall 제한을 통해 프로그램 동작을 제한
 ### Kube-bench
