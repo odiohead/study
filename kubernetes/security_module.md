@@ -19,5 +19,3 @@ Systemcall 제한을 통해 프로그램 동작을 제한
 
 
 Test
-https://drive.google.com/file/d/13vNKzrD2kmTPdkT8xr15jXD2Ojk4t4Lu/view?usp=drive_link
-<img width="150" src="http://gstatic.com/webp/gallery/4.jpg" alt="Prunus" title="마크다운은 이미지의 크기를 지정할 수 없으므로, 크기 지정을 위해서는 <img> 태그를 사용해야 합니다.">
